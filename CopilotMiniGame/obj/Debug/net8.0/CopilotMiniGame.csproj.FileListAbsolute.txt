@@ -1,0 +1,14 @@
+C:\development\other\github-copilot-trainings\skills-copilot-codespaces-vscode-game-main\CopilotMiniGame\obj\Debug\net8.0\CopilotMiniGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\development\other\github-copilot-trainings\skills-copilot-codespaces-vscode-game-main\CopilotMiniGame\obj\Debug\net8.0\CopilotMiniGame.AssemblyInfoInputs.cache
+C:\development\other\github-copilot-trainings\skills-copilot-codespaces-vscode-game-main\CopilotMiniGame\obj\Debug\net8.0\CopilotMiniGame.AssemblyInfo.cs
+C:\development\other\github-copilot-trainings\skills-copilot-codespaces-vscode-game-main\CopilotMiniGame\obj\Debug\net8.0\CopilotMiniGame.csproj.CoreCompileInputs.cache
+C:\development\other\github-copilot-trainings\skills-copilot-codespaces-vscode-game-main\CopilotMiniGame\bin\Debug\net8.0\CopilotMiniGame.exe
+C:\development\other\github-copilot-trainings\skills-copilot-codespaces-vscode-game-main\CopilotMiniGame\bin\Debug\net8.0\CopilotMiniGame.deps.json
+C:\development\other\github-copilot-trainings\skills-copilot-codespaces-vscode-game-main\CopilotMiniGame\bin\Debug\net8.0\CopilotMiniGame.runtimeconfig.json
+C:\development\other\github-copilot-trainings\skills-copilot-codespaces-vscode-game-main\CopilotMiniGame\bin\Debug\net8.0\CopilotMiniGame.dll
+C:\development\other\github-copilot-trainings\skills-copilot-codespaces-vscode-game-main\CopilotMiniGame\bin\Debug\net8.0\CopilotMiniGame.pdb
+C:\development\other\github-copilot-trainings\skills-copilot-codespaces-vscode-game-main\CopilotMiniGame\obj\Debug\net8.0\CopilotMiniGame.dll
+C:\development\other\github-copilot-trainings\skills-copilot-codespaces-vscode-game-main\CopilotMiniGame\obj\Debug\net8.0\refint\CopilotMiniGame.dll
+C:\development\other\github-copilot-trainings\skills-copilot-codespaces-vscode-game-main\CopilotMiniGame\obj\Debug\net8.0\CopilotMiniGame.pdb
+C:\development\other\github-copilot-trainings\skills-copilot-codespaces-vscode-game-main\CopilotMiniGame\obj\Debug\net8.0\CopilotMiniGame.genruntimeconfig.cache
+C:\development\other\github-copilot-trainings\skills-copilot-codespaces-vscode-game-main\CopilotMiniGame\obj\Debug\net8.0\ref\CopilotMiniGame.dll
